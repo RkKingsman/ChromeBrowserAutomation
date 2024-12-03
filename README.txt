@@ -1,3 +1,5 @@
+***Login Credientials will be changed after assessment***
+
 PROJECT SETUP:
 1. Setting up POM.xml with proper dependencies required to run the test
 2. Creating Cucumber feature file in gherkin language to show the steps involved in the test
